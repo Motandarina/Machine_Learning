@@ -34,6 +34,22 @@ Día 3 - Miercoles
  Lucía Méndez - M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb
 
  Lucía Méndez - M5 - 09 - Folium.ipynb
+ 
+Día 4 - Jueves
+ 
+ Lucía Méndez - SpaceX - 3 -EDA Using SQL.ipynb
+
+Lucía Méndez - 08 - Regresión Lineal.ipynb
+
+Lucía Méndez - M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb
+
+Lucía Méndez - M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb
+
+dataset_one-hot.csv
+
+dataset_part_2.csv
+
+spacex_launch_geo.csv
 
  
 
