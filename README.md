@@ -37,7 +37,7 @@ Día 3 - Miercoles
  
 Día 4 - Jueves
  
- Lucía Méndez - SpaceX - 3 -EDA Using SQL.ipynb
+Lucía Méndez - SpaceX - 3 -EDA Using SQL.ipynb
 
 Lucía Méndez - 08 - Regresión Lineal.ipynb
 
@@ -51,7 +51,14 @@ dataset_part_2.csv
 
 spacex_launch_geo.csv
 
- 
+Día 5 - Viernes
+
+Lucía Méndez - SpaceX - 3 -EDA Using SQL.ipynb
+
+Lucía Méndez - 08 - Regresión Lineal.ipynb
+
+Lucía Méndez - M4 - 10 - Pandas.ipynb
+
 
 **Cómo utilizar los cuadernos**
 
