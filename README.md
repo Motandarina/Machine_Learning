@@ -8,15 +8,11 @@ Actualmente, este repositorio cuenta con los siguientes cuadernos de Google Cola
 
 📂 Machine_learning
 
- 📂 Regresión Lineal
- 
-  Lucía Méndez - Regresión Lineal.ipynb
-  
-  dataset_one-hot.csv
-  
- Lucía Méndez - Introducción a Machine Learning con Scikit-Learn.ipynb
- 
- Lucía Méndez - Prophet - Predecir el valor del Café.ipynb
+    📂 Regresión Lineal
+     📄Lucía Méndez - Regresión Lineal.ipynb
+     📄dataset_one-hot.csv
+    📄Lucía Méndez - Introducción a Machine Learning con Scikit-Learn.ipynb
+    📄Lucía Méndez - Prophet - Predecir el valor del Café.ipynb
  
 📂 Pandas
 
