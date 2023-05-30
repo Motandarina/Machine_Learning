@@ -1,6 +1,6 @@
-# Repositoriocurso-Machine-Learning
+# Repositorio-proyecto-Machine-Learning
 
-Este es un repositorio creado para el curso de Machine Learning de Actualízate. Aquí encontrarás ejercicios y cuadernos de Google Colab que han aydudado a mejorar mis habilidades en programación en Python y análisis de datos.
+Este es un repositorio creado para los proyectos de Machine Learning de Actualízate. Aquí encontrarás ejercicios y cuadernos de Google Colab que han aydudado a mejorar mis habilidades de programación en Python, al análisis de datos y Machine Learning.
 
 **Cuadernos**
 
