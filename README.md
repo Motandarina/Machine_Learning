@@ -2,7 +2,7 @@
 
 Este es un repositorio creado para los proyectos de Machine Learning de Actualízate. Aquí encontrarás ejercicios y cuadernos de Google Colab que han aydudado a mejorar mis habilidades de programación en Python, al análisis de datos y Machine Learning.
 
-###**Cuadernos**
+### **Cuadernos**
 
 Actualmente, este repositorio cuenta con los siguientes cuadernos de Google Colab:
 
@@ -28,10 +28,10 @@ Actualmente, este repositorio cuenta con los siguientes cuadernos de Google Cola
   - dataset_part_2.csv
   - spacex_launch_geo.csv
 
-###**Cómo utilizar los cuadernos**
+### **Cómo utilizar los cuadernos**
 
 Puedes abrir cualquiera de los cuadernos de Google Colab haciendo clic en el enlace correspondiente en la lista anterior.
 
-###**Contribuir**
+### **Contribuir**
 
 Si encuentras errores en cualquiera de los cuadernos, por favor crea un issue o una pull request en este repositorio. ¡Cualquier contribución es bienvenida!
