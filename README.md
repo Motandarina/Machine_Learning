@@ -7,7 +7,6 @@ Este es un repositorio creado para los proyectos de Machine Learning de Actualí
 Actualmente, este repositorio cuenta con los siguientes cuadernos de Google Colab:
 
 📂 Machine_learning
-
     📂 Regresión Lineal
      📄Lucía Méndez - Regresión Lineal.ipynb
      📄dataset_one-hot.csv
