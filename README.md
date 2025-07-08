@@ -1,37 +1,50 @@
-# Repositorio-proyecto-Machine-Learning
+# 📊 Proyectos de Machine Learning - Actualízate - [The Valley](https://thevalley.es/)
 
-Este es un repositorio creado para los proyectos de Machine Learning de Actualízate. Aquí encontrarás ejercicios y cuadernos de Google Colab que han aydudado a mejorar mis habilidades de programación en Python, al análisis de datos y Machine Learning.
+Repositorio con mis ejercicios y proyectos del curso de Machine Learning de Actualízate. Aquí practico Python, análisis de datos y algunos algoritmos básicos.
 
-### **Cuadernos**
+## 📁 Contenido
 
-Actualmente, este repositorio cuenta con los siguientes cuadernos de Google Colab:
+### 🚀 Proyecto SpaceX
+Análisis de datos de lanzamientos de SpaceX (6 notebooks):
+- Recopilación de datos desde API
+- Análisis exploratorio de datos
+- Consultas SQL 
+- Visualización de datos
+- Mapas con Folium
+- Predicción con Machine Learning
 
-- Machine_learning
-  - Regresión Lineal
-    - Lucía Méndez - Regresión Lineal.ipynb
-    - dataset_one-hot.csv
-  - Lucía Méndez - Introducción a Machine Learning con Scikit-Learn.ipynb
-  - Lucía Méndez - Prophet - Predecir el valor del Café.ipynb
- 
+### 📈 Machine Learning
+- **Regresión Lineal**: Predicciones numéricas básicas
+- **Regresión Logística**: Clasificación de datos
+- **Introducción a Scikit-Learn**: Primeros pasos con ML
+- **Prophet**: Predicción de precios del café
+
+### 🐼 Análisis con Pandas
+- **Pandas básico**: Manipulación de datos
+- **Folium**: Creación de mapas interactivos
+- **Análisis de datos de Canadá**: Práctica con datasets reales
+
+## 🛠️ Tecnologías
+
+- Python
 - Pandas
-  - Canada.xlsx
-  - Lucía Méndez - Folium.ipynb
-  - Lucía Méndez - Pandas.ipynb
+- Scikit-Learn
+- Matplotlib
+- Jupyter Notebooks
+- Google Colab
 
-- SpaceX
-  - Lucía Méndez - SpaceX - 1 - Data Collection Api.ipynb
-  - Lucía Méndez - SpaceX - 2 - EDA.ipynb
-  - Lucía Méndez - SpaceX - 3 - EDA Using SQL.ipynb
-  - Lucía Méndez - SpaceX - 4 - EDA with Data Visualization.ipynb
-  - Lucía Méndez - SpaceX - 5 - Interactive Visual Analytics con Folium.ipynb
-  - Lucía Méndez - SpaceX - 6 - Machine Learning Predicciones.ipynb
-  - dataset_part_2.csv
-  - spacex_launch_geo.csv
+## 📝 Estructura
 
-### **Cómo utilizar los cuadernos**
+```
+├── SpaceX/                    # Proyecto principal
+├── Machine_learning/          # Algoritmos de ML
+├── Pandas/                    # Ejercicios con Pandas
+```
 
-Puedes abrir cualquiera de los cuadernos de Google Colab haciendo clic en el enlace correspondiente en la lista anterior.
+## 🚀 Cómo usar
 
-### **Contribuir**
+Los notebooks están pensados para abrirse en Google Colab. Solo haz clic en el archivo que te interese.
 
-Si encuentras errores en cualquiera de los cuadernos, por favor crea un issue o una pull request en este repositorio. ¡Cualquier contribución es bienvenida!
+---
+
+*Repositorio de aprendizaje - Curso Actualízate*
